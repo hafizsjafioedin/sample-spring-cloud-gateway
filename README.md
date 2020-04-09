@@ -29,6 +29,7 @@ router configuration under router-config project on port 8888
 
 source :
 https://www.javainuse.com/spring/cloud-gateway
+
 https://spring.io/guides/gs/centralized-configuration/
 
 
