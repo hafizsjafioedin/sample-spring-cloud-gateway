@@ -3,8 +3,11 @@ implement spring cloud gateway and spring cloud config
 this is simple spring cloud gateway project, where i put router config file in repository. this project contain 4 sub project
 
 sjf-gateway => spring cloud gateway
+
 router-config => spring cloud config
+
 first-service => simple micro services project
+
 second-service => simple micro services project
 
 
