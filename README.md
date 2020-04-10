@@ -31,6 +31,9 @@ source :
 https://www.javainuse.com/spring/cloud-gateway
 
 https://spring.io/guides/gs/centralized-configuration/
+https://cloud.spring.io/spring-cloud-gateway/reference/html/#gateway-starter
+
+
 
 
 
